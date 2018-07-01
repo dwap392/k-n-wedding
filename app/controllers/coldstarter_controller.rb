@@ -1,0 +1,2 @@
+class ColdstarterController < ApplicationController
+end
